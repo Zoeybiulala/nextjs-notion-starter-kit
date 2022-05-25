@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  github: 'github.com/Zoeybiulala',
-  linkedin: 'linkedin.com/ycao2',
+  github: 'Zoeybiulala',
+  linkedin: 'ycao2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
